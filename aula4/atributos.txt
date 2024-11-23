@@ -1,0 +1,4 @@
+CLASSES:
+Objeto => Dinossauro
+Eventos (colisão com coisas)
+Condição de Vitória/Derrota
